@@ -1,0 +1,18 @@
+{
+  "name": "rana-company-website",
+  "version": "1.0.0",
+  "description": "RANA Company website with dynamic content-managed frontend and an admin backend.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

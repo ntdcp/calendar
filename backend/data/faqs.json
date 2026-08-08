@@ -1,0 +1,57 @@
+[
+  {
+    "id": "f1",
+    "question": {
+      "en": "What kinds of projects does RANA undertake?",
+      "fr": "Quels types de projets RANA entreprend-elle ?"
+    },
+    "answer": {
+      "en": "Water supply schemes, sanitation infrastructure, feeder and district roads, bridges, and civil works such as markets and public buildings.",
+      "fr": "Réseaux d'eau, infrastructures d'assainissement, routes de desserte et de district, ponts et ouvrages civils tels que marchés et bâtiments publics."
+    }
+  },
+  {
+    "id": "f2",
+    "question": {
+      "en": "How can our organization partner with RANA?",
+      "fr": "Comment notre organisation peut-elle s'associer à RANA ?"
+    },
+    "answer": {
+      "en": "Reach out through the contact details on this site with an outline of your programme. Our partnerships team responds within five working days.",
+      "fr": "Contactez-nous via les coordonnées de ce site avec un aperçu de votre programme. Notre équipe des partenariats répond sous cinq jours ouvrables."
+    }
+  },
+  {
+    "id": "f3",
+    "question": {
+      "en": "Does RANA publish project costs and outcomes?",
+      "fr": "RANA publie-t-elle les coûts et résultats des projets ?"
+    },
+    "answer": {
+      "en": "Yes. Every completed project closes with a public summary of scope, cost, and outcomes, available through our News & Events section.",
+      "fr": "Oui. Chaque projet achevé se termine par un résumé public du périmètre, du coût et des résultats, disponible dans notre section Actualités et événements."
+    }
+  },
+  {
+    "id": "f4",
+    "question": {
+      "en": "Where does RANA currently operate?",
+      "fr": "Où RANA opère-t-elle actuellement ?"
+    },
+    "answer": {
+      "en": "Across nine regions of Tanzania, with regional offices supporting delivery teams on the ground.",
+      "fr": "Dans neuf régions de Tanzanie, avec des bureaux régionaux soutenant les équipes de mise en œuvre sur le terrain."
+    }
+  },
+  {
+    "id": "f5",
+    "question": {
+      "en": "How do communities raise concerns about a project?",
+      "fr": "Comment les communautés peuvent-elles signaler des préoccupations concernant un projet ?"
+    },
+    "answer": {
+      "en": "Every site maintains a local grievance contact point, and concerns can also be raised directly with RANA through the contact details listed here.",
+      "fr": "Chaque site dispose d'un point de contact local pour les réclamations, et les préoccupations peuvent aussi être signalées directement à RANA via les coordonnées indiquées ici."
+    }
+  }
+]

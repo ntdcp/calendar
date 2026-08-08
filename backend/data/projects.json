@@ -1,0 +1,98 @@
+[
+  {
+    "id": "p1",
+    "title": {
+      "en": "Kigoma Rural Water Scheme",
+      "fr": "Réseau d'eau rural de Kigoma"
+    },
+    "category": "water",
+    "status": "completed",
+    "location": "Kigoma Region",
+    "year": "2023",
+    "image": "gradient-1",
+    "description": {
+      "en": "A gravity-fed water network bringing safe water to 14 villages, including 22 new distribution points and two elevated storage tanks.",
+      "fr": "Un réseau d'eau gravitaire apportant de l'eau potable à 14 villages, avec 22 nouveaux points de distribution et deux réservoirs surélevés."
+    }
+  },
+  {
+    "id": "p2",
+    "title": {
+      "en": "Songwe District Feeder Road",
+      "fr": "Route de desserte du district de Songwe"
+    },
+    "category": "roads",
+    "status": "ongoing",
+    "location": "Songwe Region",
+    "year": "2025",
+    "image": "gradient-2",
+    "description": {
+      "en": "38km of all-weather feeder road connecting six farming wards to the regional market corridor.",
+      "fr": "38 km de route de desserte praticable par tout temps reliant six quartiers agricoles au corridor du marché régional."
+    }
+  },
+  {
+    "id": "p3",
+    "title": {
+      "en": "Tabora Health Centre Sanitation Upgrade",
+      "fr": "Amélioration sanitaire du centre de santé de Tabora"
+    },
+    "category": "sanitation",
+    "status": "completed",
+    "location": "Tabora Region",
+    "year": "2022",
+    "image": "gradient-3",
+    "description": {
+      "en": "Rebuilt sanitation blocks, waste management systems, and handwashing stations for a district health centre.",
+      "fr": "Reconstruction des blocs sanitaires, des systèmes de gestion des déchets et des postes de lavage des mains pour un centre de santé de district."
+    }
+  },
+  {
+    "id": "p4",
+    "title": {
+      "en": "Mbeya Public Market Reconstruction",
+      "fr": "Reconstruction du marché public de Mbeya"
+    },
+    "category": "civil",
+    "status": "planned",
+    "location": "Mbeya Region",
+    "year": "2026",
+    "image": "gradient-4",
+    "description": {
+      "en": "A covered public market with 240 vendor stalls, drainage works, and solar-powered lighting.",
+      "fr": "Un marché public couvert avec 240 étals, des travaux de drainage et un éclairage solaire."
+    }
+  },
+  {
+    "id": "p5",
+    "title": {
+      "en": "Singida School WASH Blocks",
+      "fr": "Blocs WASH scolaires de Singida"
+    },
+    "category": "sanitation",
+    "status": "completed",
+    "location": "Singida Region",
+    "year": "2024",
+    "image": "gradient-5",
+    "description": {
+      "en": "Gender-separated sanitation blocks and menstrual hygiene rooms built across 12 primary schools.",
+      "fr": "Blocs sanitaires séparés par sexe et salles d'hygiène menstruelle construits dans 12 écoles primaires."
+    }
+  },
+  {
+    "id": "p6",
+    "title": {
+      "en": "Morogoro Bridge Rehabilitation",
+      "fr": "Réhabilitation du pont de Morogoro"
+    },
+    "category": "roads",
+    "status": "ongoing",
+    "location": "Morogoro Region",
+    "year": "2025",
+    "image": "gradient-6",
+    "description": {
+      "en": "Structural rehabilitation of a 60-metre river crossing damaged in the 2023 flooding season.",
+      "fr": "Réhabilitation structurelle d'un franchissement de rivière de 60 mètres endommagé lors des inondations de 2023."
+    }
+  }
+]

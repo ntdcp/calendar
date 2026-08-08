@@ -1,0 +1,10 @@
+[
+  { "id": "pt1", "name": "Ministry of Water", "type": "Government", "website": "https://example.gov" },
+  { "id": "pt2", "name": "Ministry of Health", "type": "Government", "website": "https://example.gov" },
+  { "id": "pt3", "name": "Global Water Fund", "type": "Donor", "website": "https://example.org" },
+  { "id": "pt4", "name": "East Africa Development Bank", "type": "Financier", "website": "https://example.org" },
+  { "id": "pt5", "name": "Community Builders Trust", "type": "NGO", "website": "https://example.org" },
+  { "id": "pt6", "name": "Regional Roads Authority", "type": "Government", "website": "https://example.gov" },
+  { "id": "pt7", "name": "ClearFlow Engineering", "type": "Technical Partner", "website": "https://example.com" },
+  { "id": "pt8", "name": "Horizon Infrastructure Fund", "type": "Donor", "website": "https://example.org" }
+]

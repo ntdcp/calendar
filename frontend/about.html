@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — RANA Company</title>
+  <meta name="description" content="The people, mission, and history behind RANA Company.">
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="about">
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html">
+        <img src="assets/logo.svg" alt="RANA Company logo">
+        <span class="brand-word">RANA<span>.</span></span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="index.html" data-i18n="nav_home" class="">Home</a></li>
+        <li><a href="about.html" data-i18n="nav_about" class="active">About</a></li>
+        <li><a href="projects.html" data-i18n="nav_projects" class="">Projects</a></li>
+        <li><a href="partners.html" data-i18n="nav_partners" class="">Partners</a></li>
+        <li><a href="news.html" data-i18n="nav_news" class="">News &amp; Events</a></li>
+        <li><a href="faqs.html" data-i18n="nav_faqs" class="">FAQs</a></li>
+      </ul>
+      <div class="nav-right">
+        <div class="lang-switch">
+          <button class="lang-btn" type="button" aria-haspopup="true">🌐 <span class="lang-current">EN</span></button>
+          <div class="lang-menu"></div>
+        </div>
+        <a class="btn btn-outline btn-sm" href="admin/login.html" data-i18n="nav_admin">Admin</a>
+      </div>
+    </nav>
+  </header>
+
+
+  <section class="article-hero">
+    <div class="container">
+      <p class="eyebrow" data-i18n="nav_about">About</p>
+      <h1 id="about-heading">About RANA</h1>
+      <p class="hero-lead" id="about-intro" style="max-width:70ch;"></p>
+    </div>
+  </section>
+
+  <section style="padding-top:0;">
+    <div class="container split">
+      <div class="pillar reveal">
+        <p class="eyebrow" data-i18n="our_mission">Our mission</p>
+        <p id="about-mission" style="font-size:1.1rem; color:var(--ink);"></p>
+      </div>
+      <div class="pillar reveal">
+        <p class="eyebrow" data-i18n="our_vision">Our vision</p>
+        <p id="about-vision" style="font-size:1.1rem; color:var(--ink);"></p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <p class="eyebrow" data-i18n="our_values">What guides us</p>
+      <div class="value-grid" id="about-values"></div>
+    </div>
+  </section>
+
+  <section class="stats-strip">
+    <div class="container">
+      <p class="eyebrow" data-i18n="our_story">Our story</p>
+      <div class="timeline" id="about-timeline"></div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container footer-row">
+      <div>© <span id="footer-year"></span> RANA Company Ltd. — <span data-i18n="footer_rights">All rights reserved.</span></div>
+      <div class="footer-links">
+        <a id="footer-email" href="#"></a>
+        <span id="footer-phone"></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/site.js"></script>
+  <script src="js/pages.js"></script>
+</body>
+</html>

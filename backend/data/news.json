@@ -1,0 +1,47 @@
+[
+  {
+    "id": "n1",
+    "date": "2026-06-18",
+    "category": "news",
+    "title": { "en": "RANA completes the Kigoma water scheme ahead of schedule", "fr": "RANA achève le réseau d'eau de Kigoma avant l'échéance" },
+    "excerpt": {
+      "en": "Fourteen villages now have year-round access to safe water following the completion of the gravity-fed network.",
+      "fr": "Quatorze villages ont désormais un accès toute l'année à l'eau potable grâce à l'achèvement du réseau gravitaire."
+    },
+    "body": {
+      "en": "The Kigoma Rural Water Scheme was commissioned this month, three weeks ahead of its contracted schedule. The project connects fourteen villages to a gravity-fed network fed by two protected springs, with 22 distribution points and two elevated storage tanks. Local water committees have been trained to manage day-to-day operations and minor repairs.",
+      "fr": "Le réseau d'eau rural de Kigoma a été mis en service ce mois-ci, trois semaines avant l'échéance contractuelle. Le projet relie quatorze villages à un réseau gravitaire alimenté par deux sources protégées, avec 22 points de distribution et deux réservoirs surélevés. Les comités locaux de l'eau ont été formés à la gestion quotidienne et aux réparations mineures."
+    },
+    "image": "gradient-1"
+  },
+  {
+    "id": "n2",
+    "date": "2026-05-02",
+    "category": "event",
+    "title": { "en": "Annual Partners Forum set for August in Dodoma", "fr": "Forum annuel des partenaires prévu en août à Dodoma" },
+    "excerpt": {
+      "en": "RANA will host government, donor, and community partners to review the 2025/26 project pipeline.",
+      "fr": "RANA accueillera les partenaires gouvernementaux, bailleurs et communautaires pour examiner le portefeuille de projets 2025/26."
+    },
+    "body": {
+      "en": "The forum brings together every active funding and implementation partner for a two-day review of ongoing works, upcoming tenders, and lessons from the past year. Sessions will cover water and sanitation, roads, and community engagement practice.",
+      "fr": "Le forum réunit tous les partenaires financiers et de mise en œuvre actifs pour un examen de deux jours des travaux en cours, des appels d'offres à venir et des leçons de l'année écoulée. Les sessions porteront sur l'eau et l'assainissement, les routes et la pratique de l'engagement communautaire."
+    },
+    "image": "gradient-3"
+  },
+  {
+    "id": "n3",
+    "date": "2026-03-11",
+    "category": "news",
+    "title": { "en": "RANA joins the East Africa Development Bank supplier network", "fr": "RANA rejoint le réseau de fournisseurs de la Banque de développement d'Afrique de l'Est" },
+    "excerpt": {
+      "en": "The listing opens access to a new pipeline of regional infrastructure tenders.",
+      "fr": "Cette inscription ouvre l'accès à un nouveau portefeuille d'appels d'offres régionaux en infrastructure."
+    },
+    "body": {
+      "en": "RANA Company has been approved as a qualified contractor within the East Africa Development Bank's regional supplier network, following an audit of financial systems, safety practice, and past project performance.",
+      "fr": "RANA Company a été approuvée comme entrepreneur qualifié au sein du réseau régional de fournisseurs de la Banque de développement d'Afrique de l'Est, suite à un audit des systèmes financiers, des pratiques de sécurité et des performances des projets passés."
+    },
+    "image": "gradient-5"
+  }
+]

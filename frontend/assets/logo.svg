@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="RANA Company logo">
+  <defs>
+    <linearGradient id="ranaGoldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7B75B"/>
+      <stop offset="1" stop-color="#C98A2C"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="#14232B"/>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="none" stroke="#2C6E63" stroke-width="1" opacity="0.6"/>
+  <!-- Structural "R" built from beam + roof forms, doubling as an abstract bridge/roofline -->
+  <path d="M18 47V17h13.5c5.8 0 9.8 3.6 9.8 9.1 0 4.1-2.2 7.1-5.9 8.4L42 47h-7.6l-6-11.4H24.6V47H18Zm6.6-16.9h6.1c2.9 0 4.7-1.6 4.7-4.1 0-2.5-1.8-4-4.7-4h-6.1v8.1Z" fill="url(#ranaGoldGrad)"/>
+  <path d="M9 22 32 9l23 13" fill="none" stroke="#2C6E63" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+</svg>

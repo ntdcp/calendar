@@ -1,0 +1,46 @@
+{
+  "companyName": "RANA",
+  "fullName": "RANA Company Ltd.",
+  "tagline": {
+    "en": "Building infrastructure people can rely on.",
+    "fr": "Construire des infrastructures fiables."
+  },
+  "email": "info@ranacompany.com",
+  "phone": "+255 700 000 000",
+  "address": "Plot 14, Nyerere Road, Dar es Salaam, Tanzania",
+  "socials": {
+    "facebook": "https://facebook.com",
+    "twitter": "https://x.com",
+    "linkedin": "https://linkedin.com"
+  },
+  "stats": [
+    {
+      "value": "120+",
+      "label": {
+        "en": "Projects delivered",
+        "fr": "Projets livrés"
+      }
+    },
+    {
+      "value": "18",
+      "label": {
+        "en": "Years in operation",
+        "fr": "Années d'activité"
+      }
+    },
+    {
+      "value": "34",
+      "label": {
+        "en": "Active partners",
+        "fr": "Partenaires actifs"
+      }
+    },
+    {
+      "value": "9",
+      "label": {
+        "en": "Regions covered",
+        "fr": "Régions couvertes"
+      }
+    }
+  ]
+}

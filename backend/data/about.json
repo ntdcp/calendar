@@ -1,0 +1,86 @@
+{
+  "en": {
+    "heading": "About RANA",
+    "intro": "RANA Company designs and builds water, sanitation, and civil infrastructure across East Africa. For eighteen years we have worked alongside governments, communities, and funding partners to turn plans into structures that last.",
+    "mission": "To deliver durable infrastructure and honest project management that communities can depend on for decades, not just for the life of a contract.",
+    "vision": "A region where every community reaches safe water, sound roads, and resilient public buildings without waiting a generation for them.",
+    "values": [
+      {
+        "title": "Integrity",
+        "text": "We report progress as it is, not as it would be convenient to say."
+      },
+      {
+        "title": "Craftsmanship",
+        "text": "We hold our own work to the same standard we would want for our own families."
+      },
+      {
+        "title": "Partnership",
+        "text": "We build with communities and partners, not around them."
+      },
+      {
+        "title": "Accountability",
+        "text": "Every project closes with a public record of what was built and what it cost."
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2007",
+        "text": "RANA Company founded with a single borehole-drilling crew in Dodoma."
+      },
+      {
+        "year": "2013",
+        "text": "Expanded into road and bridge construction across three regions."
+      },
+      {
+        "year": "2018",
+        "text": "Began long-term partnerships with international development funders."
+      },
+      {
+        "year": "2024",
+        "text": "Passed 120 completed projects and opened a regional office network."
+      }
+    ]
+  },
+  "fr": {
+    "heading": "À propos de RANA",
+    "intro": "RANA Company conçoit et construit des infrastructures d'eau, d'assainissement et de génie civil en Afrique de l'Est. Depuis dix-huit ans, nous travaillons avec les gouvernements, les communautés et les partenaires financiers pour transformer les plans en structures durables.",
+    "mission": "Fournir des infrastructures durables et une gestion de projet honnête sur lesquelles les communautés peuvent compter pendant des décennies.",
+    "vision": "Une région où chaque communauté accède à l'eau potable, à des routes solides et à des bâtiments publics résilients sans attendre une génération.",
+    "values": [
+      {
+        "title": "Intégrité",
+        "text": "Nous rapportons l'avancement tel qu'il est, pas tel qu'il serait pratique de le dire."
+      },
+      {
+        "title": "Savoir-faire",
+        "text": "Nous exigeons de notre travail la même qualité que pour nos propres familles."
+      },
+      {
+        "title": "Partenariat",
+        "text": "Nous construisons avec les communautés et les partenaires, pas autour d'eux."
+      },
+      {
+        "title": "Redevabilité",
+        "text": "Chaque projet se termine par un rapport public de ce qui a été construit et de son coût."
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2007",
+        "text": "Fondation de RANA Company avec une seule équipe de forage à Dodoma."
+      },
+      {
+        "year": "2013",
+        "text": "Expansion vers la construction de routes et de ponts dans trois régions."
+      },
+      {
+        "year": "2018",
+        "text": "Début de partenariats à long terme avec des bailleurs internationaux."
+      },
+      {
+        "year": "2024",
+        "text": "120 projets achevés et ouverture d'un réseau de bureaux régionaux."
+      }
+    ]
+  }
+}
